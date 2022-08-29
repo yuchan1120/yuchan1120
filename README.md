@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-# Welcome to Yuki Miura's GitHub <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
+# Welcome to Yuki Miura's GitHub <img width="4.8%" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 未経験ですが、エンジニアへの転職を目指し、プログラミングの学習を継続しております。
 <br>
 プロのエンジニアになりたいので、コードは毎日書き続けたいと考えております。
@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 
 ## Portfolio
 ### 作業割当メーカー [[app](https://sagyouwariate-maker.herokuapp.com/)] [[repository](https://github.com/yuchan1120/sagyouwariate_maker)]
-<img width="500" src="https://user-images.githubusercontent.com/95864276/185735792-0391ea38-5469-4586-a3a9-0ab9518fd178.gif">
+<img width="60%" src="https://user-images.githubusercontent.com/95864276/185735792-0391ea38-5469-4586-a3a9-0ab9518fd178.gif">
