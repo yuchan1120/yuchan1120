@@ -1,9 +1,9 @@
-### Hi there 👋
-
 <!--
 **yuchan1120/yuchan1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+  <a href="https://github.com/yuchan1120/yuchan1120/">
+    <img src="https://komarev.com/ghpvc/?username=yuchan1120" alt="yuchan1120" />
+  </a>
+  <a href="http://twitter.com/potepan_miura">
+    <img height="20" src="https://img.shields.io/twitter/follow/potepan_miura?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/yuchan1120">
+    <img height="20" src="https://img.shields.io/github/followers/yuchan1120?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/Myuuki">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Myuuki/posts.svg" />
+  </a>
+  <a href="http://qiita.com/Myuuki">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Myuuki/contributions.svg" />
+  </a>
+</p>
+
+<br>
+
+# Welcome to Yuki Miura's GitHub <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
+未経験ですが、エンジニアへの転職を目指し、プログラミングの学習を継続しております。
+<br>
+プロのエンジニアになりたいので、コードは毎日書き続けたいと考えております。
+
+<br>
+
+## Most Used Languages & GitHub Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="280" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchan1120" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="280" align="center" src="https://github-readme-stats.vercel.app/api?username=yuchan1120&show_icons=true" />
+</a>
+
+## Portfolio
+### 作業割当メーカー [[app](https://sagyouwariate-maker.herokuapp.com/)] [[repository](https://github.com/yuchan1120/sagyouwariate_maker)]
+<img width="500" src="https://user-images.githubusercontent.com/95864276/185735792-0391ea38-5469-4586-a3a9-0ab9518fd178.gif">
