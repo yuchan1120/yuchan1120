@@ -46,6 +46,11 @@ Here are some ideas to get you started:
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=yuchan1120&show_icons=true" />
 </a>
 
+## What I learned
+- ポテパンキャンプ　Railsキャリアコース
+- 著書 「Everyday Rails – RSpecによるRailsテスト入門」
+- 著書 「作りながら学ぶ React入門」
+
 ## Portfolio
 ### 作業割当メーカー [[app](https://sagyouwariate-maker.herokuapp.com/)] [[repository](https://github.com/yuchan1120/sagyouwariate_maker)]
 <img width="60%" src="https://user-images.githubusercontent.com/95864276/185735792-0391ea38-5469-4586-a3a9-0ab9518fd178.gif">
