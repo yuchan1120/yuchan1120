@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 ## Most Used Languages & GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchan1120" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchan1120&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=yuchan1120&show_icons=true" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=yuchan1120&show_icons=true&count_private=true" />
 </a>
 
 ## What I learned
