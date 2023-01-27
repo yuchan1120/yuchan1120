@@ -19,9 +19,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/yuchan1120/yuchan1120/">
     <img src="https://komarev.com/ghpvc/?username=yuchan1120" alt="yuchan1120" />
   </a>
-  <a href="http://twitter.com/potepan_miura">
-    <img height="20" src="https://img.shields.io/twitter/follow/potepan_miura?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/yuchan1120">
     <img height="20" src="https://img.shields.io/github/followers/yuchan1120?label=follow&logo=github&style=flat" />
   </a>
@@ -34,9 +31,6 @@ Here are some ideas to get you started:
 </p>
 
 # Welcome to Yuki Miura's GitHub <img width="4.8%" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
-未経験ですが、エンジニアへの転職を目指し、プログラミングの学習を継続しております。
-<br>
-プロのエンジニアになりたいので、コードは毎日書き続けたいと考えております。
 
 ## Most Used Languages & GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -45,11 +39,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=yuchan1120&show_icons=true&count_private=true" />
 </a>
-
-## What I learned
-- ポテパンキャンプ　Railsキャリアコース
-- 著書 「Everyday Rails – RSpecによるRailsテスト入門」
-- 著書 「作りながら学ぶ React入門」
 
 ## Portfolio
 ### 作業割当メーカー [[app](https://sagyouwariate-maker.herokuapp.com/)] [[repository](https://github.com/yuchan1120/sagyouwariate_maker)]
